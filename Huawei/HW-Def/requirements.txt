@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+node2vec
+networkx
+matplotlib
+scipy
+tqdm
+igraph
+leidenalg
