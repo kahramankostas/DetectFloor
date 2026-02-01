@@ -1,0 +1,316 @@
+[
+    {
+        "cluster_id": 0,
+        "total_aps": 12,
+        "valid_aps": 12,
+        "floor_counts": {
+            "0": 2,
+            "1": 2,
+            "2": 7,
+            "3": 1
+        },
+        "floor_percentages": {
+            "0": 16.666666666666664,
+            "1": 16.666666666666664,
+            "2": 58.333333333333336,
+            "3": 8.333333333333332
+        },
+        "dominant_floor": 2,
+        "dominant_percentage": 58.333333333333336
+    },
+    {
+        "cluster_id": 1,
+        "total_aps": 5,
+        "valid_aps": 5,
+        "floor_counts": {
+            "9": 1,
+            "4": 1,
+            "5": 2,
+            "6": 1
+        },
+        "floor_percentages": {
+            "9": 20.0,
+            "4": 20.0,
+            "5": 40.0,
+            "6": 20.0
+        },
+        "dominant_floor": 5,
+        "dominant_percentage": 40.0
+    },
+    {
+        "cluster_id": 2,
+        "total_aps": 9,
+        "valid_aps": 9,
+        "floor_counts": {
+            "5": 2,
+            "1": 2,
+            "2": 2,
+            "3": 3
+        },
+        "floor_percentages": {
+            "5": 22.22222222222222,
+            "1": 22.22222222222222,
+            "2": 22.22222222222222,
+            "3": 33.33333333333333
+        },
+        "dominant_floor": 3,
+        "dominant_percentage": 33.33333333333333
+    },
+    {
+        "cluster_id": 3,
+        "total_aps": 9,
+        "valid_aps": 9,
+        "floor_counts": {
+            "4": 2,
+            "12": 3,
+            "10": 1,
+            "11": 1,
+            "9": 2
+        },
+        "floor_percentages": {
+            "4": 22.22222222222222,
+            "12": 33.33333333333333,
+            "10": 11.11111111111111,
+            "11": 11.11111111111111,
+            "9": 22.22222222222222
+        },
+        "dominant_floor": 12,
+        "dominant_percentage": 33.33333333333333
+    },
+    {
+        "cluster_id": 4,
+        "total_aps": 6,
+        "valid_aps": 6,
+        "floor_counts": {
+            "6": 1,
+            "5": 4,
+            "4": 1
+        },
+        "floor_percentages": {
+            "6": 16.666666666666664,
+            "5": 66.66666666666666,
+            "4": 16.666666666666664
+        },
+        "dominant_floor": 5,
+        "dominant_percentage": 66.66666666666666
+    },
+    {
+        "cluster_id": 5,
+        "total_aps": 3,
+        "valid_aps": 3,
+        "floor_counts": {
+            "8": 3
+        },
+        "floor_percentages": {
+            "8": 100.0
+        },
+        "dominant_floor": 8,
+        "dominant_percentage": 100.0
+    },
+    {
+        "cluster_id": 6,
+        "total_aps": 7,
+        "valid_aps": 7,
+        "floor_counts": {
+            "9": 5,
+            "4": 2
+        },
+        "floor_percentages": {
+            "9": 71.42857142857143,
+            "4": 28.57142857142857
+        },
+        "dominant_floor": 9,
+        "dominant_percentage": 71.42857142857143
+    },
+    {
+        "cluster_id": 7,
+        "total_aps": 15,
+        "valid_aps": 15,
+        "floor_counts": {
+            "1": 6,
+            "2": 5,
+            "3": 2,
+            "0": 1,
+            "6": 1
+        },
+        "floor_percentages": {
+            "1": 40.0,
+            "2": 33.33333333333333,
+            "3": 13.333333333333334,
+            "0": 6.666666666666667,
+            "6": 6.666666666666667
+        },
+        "dominant_floor": 1,
+        "dominant_percentage": 40.0
+    },
+    {
+        "cluster_id": 8,
+        "total_aps": 5,
+        "valid_aps": 5,
+        "floor_counts": {
+            "0": 3,
+            "1": 1,
+            "3": 1
+        },
+        "floor_percentages": {
+            "0": 60.0,
+            "1": 20.0,
+            "3": 20.0
+        },
+        "dominant_floor": 0,
+        "dominant_percentage": 60.0
+    },
+    {
+        "cluster_id": 9,
+        "total_aps": 3,
+        "valid_aps": 3,
+        "floor_counts": {
+            "5": 2,
+            "4": 1
+        },
+        "floor_percentages": {
+            "5": 66.66666666666666,
+            "4": 33.33333333333333
+        },
+        "dominant_floor": 5,
+        "dominant_percentage": 66.66666666666666
+    },
+    {
+        "cluster_id": 10,
+        "total_aps": 5,
+        "valid_aps": 5,
+        "floor_counts": {
+            "12": 1,
+            "10": 2,
+            "8": 1,
+            "6": 1
+        },
+        "floor_percentages": {
+            "12": 20.0,
+            "10": 40.0,
+            "8": 20.0,
+            "6": 20.0
+        },
+        "dominant_floor": 10,
+        "dominant_percentage": 40.0
+    },
+    {
+        "cluster_id": 11,
+        "total_aps": 9,
+        "valid_aps": 9,
+        "floor_counts": {
+            "5": 3,
+            "6": 3,
+            "4": 1,
+            "7": 1,
+            "9": 1
+        },
+        "floor_percentages": {
+            "5": 33.33333333333333,
+            "6": 33.33333333333333,
+            "4": 11.11111111111111,
+            "7": 11.11111111111111,
+            "9": 11.11111111111111
+        },
+        "dominant_floor": 5,
+        "dominant_percentage": 33.33333333333333
+    },
+    {
+        "cluster_id": 12,
+        "total_aps": 5,
+        "valid_aps": 5,
+        "floor_counts": {
+            "11": 2,
+            "9": 3
+        },
+        "floor_percentages": {
+            "11": 40.0,
+            "9": 60.0
+        },
+        "dominant_floor": 9,
+        "dominant_percentage": 60.0
+    },
+    {
+        "cluster_id": 13,
+        "total_aps": 2,
+        "valid_aps": 2,
+        "floor_counts": {
+            "4": 1,
+            "10": 1
+        },
+        "floor_percentages": {
+            "4": 50.0,
+            "10": 50.0
+        },
+        "dominant_floor": 4,
+        "dominant_percentage": 50.0
+    },
+    {
+        "cluster_id": 14,
+        "total_aps": 5,
+        "valid_aps": 5,
+        "floor_counts": {
+            "4": 2,
+            "6": 1,
+            "5": 1,
+            "7": 1
+        },
+        "floor_percentages": {
+            "4": 40.0,
+            "6": 20.0,
+            "5": 20.0,
+            "7": 20.0
+        },
+        "dominant_floor": 4,
+        "dominant_percentage": 40.0
+    },
+    {
+        "cluster_id": 15,
+        "total_aps": 3,
+        "valid_aps": 3,
+        "floor_counts": {
+            "5": 1,
+            "7": 2
+        },
+        "floor_percentages": {
+            "5": 33.33333333333333,
+            "7": 66.66666666666666
+        },
+        "dominant_floor": 7,
+        "dominant_percentage": 66.66666666666666
+    },
+    {
+        "cluster_id": 16,
+        "total_aps": 16,
+        "valid_aps": 16,
+        "floor_counts": {
+            "1": 11,
+            "2": 3,
+            "0": 2
+        },
+        "floor_percentages": {
+            "1": 68.75,
+            "2": 18.75,
+            "0": 12.5
+        },
+        "dominant_floor": 1,
+        "dominant_percentage": 68.75
+    },
+    {
+        "cluster_id": 17,
+        "total_aps": 4,
+        "valid_aps": 4,
+        "floor_counts": {
+            "7": 1,
+            "5": 2,
+            "6": 1
+        },
+        "floor_percentages": {
+            "7": 25.0,
+            "5": 50.0,
+            "6": 25.0
+        },
+        "dominant_floor": 5,
+        "dominant_percentage": 50.0
+    }
+]

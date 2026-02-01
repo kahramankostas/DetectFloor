@@ -1,0 +1,76 @@
+{
+    "raw_ari": 0.028237569355503787,
+    "raw_nmi": 0.12797604389752407,
+    "raw_homogeneity": 0.1502958560822187,
+    "raw_completeness": 0.11142829193148494,
+    "raw_v_measure": 0.12797604389752407,
+    "mapped_ari": 0.08717748520456174,
+    "mapped_nmi": 0.10319042391856274,
+    "mapped_homogeneity": 0.07528602158726588,
+    "mapped_completeness": 0.16396224115437627,
+    "mapped_v_measure": 0.10319042391856274,
+    "mapped_accuracy": 0.3900106269925611,
+    "mapped_precision": 0.262859058072223,
+    "mapped_recall": 0.3900106269925611,
+    "mapped_f1": 0.28872078720291844,
+    "num_clusters": 20,
+    "num_unique_floors": 9,
+    "total_aps": 8371,
+    "avg_cluster_size": 418.55,
+    "std_cluster_size": 288.6774107892753,
+    "singleton_clusters": 0,
+    "singleton_ratio": 0.0,
+    "avg_cluster_purity": 0.4538246389193638,
+    "cluster_floor_ratio": 2.2222222222222223,
+    "min_cluster_size": 63,
+    "max_cluster_size": 1418,
+    "adjusted_f1_score": 0.2598487084826266,
+    "metrics_ci": {
+        "mapped_accuracy": {
+            "mean": 0.3905356004250797,
+            "std": 0.016337664909986685,
+            "ci_lower": 0.359192348565356,
+            "ci_upper": 0.45218012752391035
+        },
+        "mapped_precision": {
+            "mean": 0.2640317296002979,
+            "std": 0.018415721095716917,
+            "ci_lower": 0.2273024757147894,
+            "ci_upper": 0.3215003141585572
+        },
+        "mapped_recall": {
+            "mean": 0.39012433581296496,
+            "std": 0.01572398315023026,
+            "ci_lower": 0.359192348565356,
+            "ci_upper": 0.43836503719447356
+        },
+        "mapped_f1": {
+            "mean": 0.28847433200465084,
+            "std": 0.016368422375521302,
+            "ci_lower": 0.2575332880549541,
+            "ci_upper": 0.3550974578804246
+        }
+    },
+    "baseline_comparison": {
+        "mcnemar": {
+            "test_type": "McNemar",
+            "chi2_statistic": 207.48445595854923,
+            "p_value": 0.0,
+            "discordant_pairs": {
+                "only_method1_correct": 51,
+                "only_method2_correct": 335
+            }
+        },
+        "paired_t": {
+            "test_type": "Paired t-test",
+            "t_statistic": -16.380201542820853,
+            "p_value": 3.0656200961102246e-53,
+            "mean_difference": -0.3018065887353879
+        },
+        "wilcoxon": {
+            "test_type": "Wilcoxon Signed-Rank",
+            "statistic": 9868.5,
+            "p_value": 2.323881205258188e-47
+        }
+    }
+}
