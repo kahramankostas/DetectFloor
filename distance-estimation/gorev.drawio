@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="vJFDdjytnf8gbMBMD8_-">
+    <mxGraphModel dx="992" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uMi-fye8o-AKkG05DFVL-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="300" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uMi-fye8o-AKkG05DFVL-15" target="uMi-fye8o-AKkG05DFVL-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-15" value="&lt;b&gt;000.ipynb&lt;/b&gt;&lt;br&gt;Finds the relevant zip files and extracts them to folders." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="370" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uMi-fye8o-AKkG05DFVL-17" target="uMi-fye8o-AKkG05DFVL-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-17" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;001.ipynb&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Converts RSS and coordinate&amp;nbsp; information from different WiFi positioning (fingerprinting) data sets to JSON format&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="370" y="160" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uMi-fye8o-AKkG05DFVL-19" target="uMi-fye8o-AKkG05DFVL-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-19" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;002.ipynb&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Calculates the distances between different measurement points in WiFi positioning data (based on coordinates) and saves them to CSV files.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="370" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uMi-fye8o-AKkG05DFVL-21" target="uMi-fye8o-AKkG05DFVL-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-21" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;003.ipynb&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;It calculates various distance metrics (e.g. correlation, Euclidean, cosine, Jaccard) to measure the similarity or difference between WiFi fingerprint data, and records these as feature extraction in CSV files.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="370" y="440" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;GTCreator.py&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Creates label for dataset 4 (UJIndoorLoc)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoZ-nl-RLSWbcyhLz5BC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMi-fye8o-AKkG05DFVL-23" target="eoZ-nl-RLSWbcyhLz5BC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-23" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;004.ipynb&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;By merging CSV files,&amp;nbsp; final training and test datasets are created. These will be used as training and test data for Distance Estimation.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="530" y="440" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uMi-fye8o-AKkG05DFVL-24" value="Distance Estimation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="450" y="42" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eoZ-nl-RLSWbcyhLz5BC-1" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;005.ipy&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;nb&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;trains a regression model (XGBoost) using the training and test datasets, evaluates the model’s performance using metrics such as MAE, MSE, and RMSE, and generates and saves the predicted distance results&lt;/font&gt;.&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="120" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
